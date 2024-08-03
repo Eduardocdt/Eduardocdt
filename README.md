@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá 👋, sou o Eduardo</h1>
+<h1 align="center">Olá, sou o Eduardo</h1>
 <h3 align="center">Back end, Programador</h3>
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS, React, React Native, Node, Figma**
